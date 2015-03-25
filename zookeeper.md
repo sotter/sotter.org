@@ -1,3 +1,15 @@
+<!--
+date   : 2015-03-07 21:36:38
+title  : 关于我
+slug   : about
+author : liubo
+format : MarkdownExtra
+tags   : [about, sotter]
+type   : page
+-->
+
+
+
 # zookeeper 使用 #
 
 ## 背景 ##
