@@ -9,7 +9,6 @@
 
 
 
-
 ![](http://i.imgur.com/GuunAIC.jpg)
 
 ## zookeeper 环境搭建 ##
