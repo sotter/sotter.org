@@ -88,7 +88,7 @@ clientPort=2181
 ## ZAB CPP demo ##
 
 
-```c
+```{.prettyprint}
 int main()
 {
 	return 0;
